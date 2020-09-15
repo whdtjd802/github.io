@@ -1,0 +1,23 @@
+<!doctype html> <!--index.html-->
+<html><head>
+<meta charset="urf-8"/>
+<meta name="viewport" content="width=device-width,initial-sacle=1"/>
+<title>개인 과제 리스트</title>
+<style>
+a:link {color:blue; text-decoration:none;} a:visited{color:purple; text-decoration:none;}
+a:hover {text-decoration:underline;}a:active{color:red; text-decoration:none;}
+</style></head>
+<body>
+<h1>문종성 과제 리스트</h3>
+ <ul><hr/>
+ <li>1주1회차</li>
+ <ol>
+  <li><a href=https://whdtjd802.github.io/java/hw1_1_1.html>Eclipse초기 실행(hw_1_1_1.html)</a></li>
+ </ol><hr/>
+ <li>1주2회차</li>
+ <ol>
+ <li><a href="https://whdtjd802.github.io/java/hw1_2_1.html">문종성실습 desktop/mobile용(hw1_2_1.html)</a></li>
+ <li><a href="https://whdtjd802.gitgub.io/java/hw1_2_2.html">문종성실습 desktop용(hw1_2_2.html)</a></li>
+ </ol><hr/>
+ </ul>
+ </body></html>
